@@ -12,4 +12,5 @@
 chmod +x reset_cursor_ai.sh
 ./reset_cursor_ai.sh
 ```
-9. Abrir cursor y probar
+9. Abrir cursor
+10. Agregar cuenta
