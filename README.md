@@ -38,7 +38,7 @@ Para desinstalar completamente **Cursor**, sigue estos pasos según tu sistema o
          - Reinicia tu computadora para asegurarte de que todos los cambios surtan efecto.
 
    ### 1.2 **En macOS:**
-      Ejecutar en la terminal
+   Ejecutar en la terminal
    ```bash
    sudo rm -R ~/Library/'Application Support'/Cursor  && sudo rm -R ~/Library/Preferences/com.cursor.Cursor.plist && sudo rm -R ~/Library/Saved Application State/com.cursor.Cursor.savedState && sudo rm -R ~/Library/Caches/Cursor && sudo rm -R ~/Library/Cursor && sudo rm -$ ~/.cursor
    ```
