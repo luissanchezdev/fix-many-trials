@@ -13,4 +13,6 @@ chmod +x reset_cursor_ai.sh
 ./reset_cursor_ai.sh
 ```
 9. Abrir cursor
-10. Agregar cuenta
+11. Agregar cuenta
+
+Link para descargar archivos de instalación de cursor 0.44.11 para Mac y Windows: https://drive.google.com/drive/folders/1Q7Popnj09lQF1Tgw1nRay82Gd8QyScyj?usp=sharing
