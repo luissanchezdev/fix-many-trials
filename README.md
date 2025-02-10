@@ -64,7 +64,6 @@ Para desinstalar completamente **Cursor**, sigue estos pasos según tu sistema o
          - Reinicia tu sistema para asegurarte de que todos los cambios se apliquen.
 
 
-Si sigues estos pasos, Cursor debería estar completamente desinstalado de tu sistema. ¡Espero que te haya sido útil! 😊
 ## 2. Instalar cursor version 0.44.11 con el archivo de instalación offline para su SO
 ## 3. Deshabilitar internet
 ## 4. Abrir cursor e ir a preferences/Cursor Settings/General/Open editor settings/Application/Update/
